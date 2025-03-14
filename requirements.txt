@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+yt-dlp
+requests
+pillow
+flask
+speedtest-cli
+instaloader
